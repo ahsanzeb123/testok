@@ -1190,7 +1190,7 @@ body {
         margin-left: auto;
         margin-right: auto;
     }
-}
+
 
 #page7 #lastcont {
     width: 100%;
@@ -1272,7 +1272,7 @@ body {
     }
 
     .form {
-        width: 90%;
+        width: 50%%;
     }
 
     .form #btn4 {
